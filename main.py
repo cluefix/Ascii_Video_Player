@@ -6,7 +6,6 @@ from numba import jit
 import threading
 import time
 import os
-from PIL import Image
 
 colorama.init()
 
